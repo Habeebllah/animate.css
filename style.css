@@ -1,0 +1,12 @@
+.main{
+    width: 100%;
+    justify-content: center;
+    display: grid;
+    margin-top: 100px;
+}
+
+.main h5{
+    text-align: center;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
